@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: Looly's Blog 小磊的博客
-url: http://www.xiaoleilu.com
+title: conc's Blog conc的博客
+url: https://conc.github.io/
 feed: /atom.xml
-author_info: <a href="http://xiaoleilu.com/">Looly</a>
+author_info: <a href="https://conc.github.io/">Looly</a>
